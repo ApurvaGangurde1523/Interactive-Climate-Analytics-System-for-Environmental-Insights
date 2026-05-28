@@ -1,5 +1,5 @@
 # Interactive-Climate-Analytics-System-for-Environmental-Insights
-![Climate Dashboard](PBL-IV Mini Project Dataset/Dashboard.png)
+![Climate Dashboard](Dashboard.png)
 
 This project presents a Climate Change Dashboard designed to analyze and 
 visualize key environmental indicators such as temperature, air quality index 
