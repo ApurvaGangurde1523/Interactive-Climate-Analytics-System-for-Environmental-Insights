@@ -1,0 +1,11 @@
+Filter_Type,Pollution_Type,Efficiency_Percent,Cost_Level,Impact_Score,Best_Use_Area,Removes
+Biofilter,Air,60.0,Low,7,Urban,"CO2, Odor, VOCs"
+HEPA Filter,Air,99.97,Medium,8,Indoor,"Dust, Pollen, Smoke"
+Activated Carbon,Air,85.0,Medium,8,Industrial,"VOCs, Gases, Odor"
+Membrane (RO),Water,95.0,High,9,Urban,"Salts, Heavy Metals"
+Ultrafiltration (UF),Water,90.0,Medium,8,Urban,"Bacteria, Suspended Solids"
+Nanofiltration (NF),Water,92.0,High,8,Industrial,Organic Compounds
+Electrostatic Precipitator,Air,95.0,High,10,Industrial,"Smoke, Dust"
+Cyclone Separator,Air,70.0,Low,6,Industrial,"Dust, Large Particles"
+Phytoremediation,Soil/Water,65.0,Low,7,Urban,"Heavy Metals, Toxins"
+Algae System,Air/Water,75.0,Medium,8,Urban,"CO2, Nutrients"
